@@ -1,0 +1,17 @@
+autogen==0.7.3
+autogen-agentchat==0.4.4
+autogen-core==0.4.4
+autogen-ext==0.4.4
+pyautogen==0.7.3
+openai
+asyncio
+transformers 
+trl 
+datasets 
+accelerate 
+peft 
+bitsandbytes
+aiofiles
+playwright
+markitdown
+huggingface-cli login --token <huggingface_token>
